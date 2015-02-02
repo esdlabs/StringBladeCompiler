@@ -1,5 +1,5 @@
 {
-    "name": "wpb/string-blade-compiler",
+    "name": "esdlabs/string-blade-compiler",
     "description": "Render Blade templates from string",
     "keywords": ["laravel", "blade", "compiler"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Terre Porter",
             "email": "tporter@webpage-builders.com"
+        },
+        {
+            "name": "Edgar Nadal",
+            "email": "edgarnadal@esd.com.do"
         }
     ],
     "require": {
@@ -17,5 +21,6 @@
             "Wpb\\StringBladeCompiler\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "version": "v1.0.0",
+    "minimum-stability": "stable"
 }
